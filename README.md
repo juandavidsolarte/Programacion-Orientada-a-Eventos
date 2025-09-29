@@ -1,2 +1,2 @@
-# Programacion-Orientada-a-Eventos
+# EscrituraRapida
 Curso de programacion orientada a eventos
